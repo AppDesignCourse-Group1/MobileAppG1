@@ -46,5 +46,6 @@
         <icon height="100" src="res/icon/ios/logoicon.png" width="100" />
         <icon height="167" src="res/icon/ios/logoicon.png" width="167" />
     </platform>
-    <engine name="android" spec="~7.1.4" />
+    <engine name="android" spec="^7.1.4" />
+    <engine name="ios" spec="~4.5.5" />
 </widget>
