@@ -28,23 +28,6 @@
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
-        <icon height="180" src="res/icon/ios/logoicon.png" width="180" />
-        <icon height="60" src="res/icon/ios/logoicon.png" width="60" />
-        <icon height="120" src="res/icon/ios/logoicon.png" width="120" />
-        <icon height="76" src="res/icon/ios/logoicon.png" width="76" />
-        <icon height="152" src="res/icon/ios/logoicon.png" width="152" />
-        <icon height="40" src="res/icon/ios/logoicon.png" width="40" />
-        <icon height="80" src="res/icon/ios/logoicon.png" width="80" />
-        <icon height="57" src="res/icon/ios/logoicon.png" width="57" />
-        <icon height="114" src="res/icon/ios/logoicon.png" width="114" />
-        <icon height="72" src="res/icon/ios/logoicon.png" width="72" />
-        <icon height="144" src="res/icon/ios/logoicon.png" width="144" />
-        <icon height="167" src="res/icon/ios/logoicon.png" width="167" />
-        <icon height="29" src="res/icon/ios/logoicon.png" width="29" />
-        <icon height="58" src="res/icon/ios/logoicon.png" width="58" />
-        <icon height="50" src="res/icon/ios/logoicon.png" width="50" />
-        <icon height="100" src="res/icon/ios/logoicon.png" width="100" />
-        <icon height="167" src="res/icon/ios/logoicon.png" width="167" />
     </platform>
     <engine name="android" spec="^7.1.4" />
     <engine name="ios" spec="~4.5.5" />
